@@ -314,11 +314,6 @@ flowchart TD
 /eval         scripted scenarios and evaluation scripts
 /docs         architecture diagram
 ```
-# [Project Name] — Multilingual AI Patient Intake Kiosk
-
-> Sections 1–5 of the qualifier template go here (the screenshot only showed sections 6–10).
-> Replace every `[bracketed placeholder]` before submitting.
-
 ---
 
 ## 6. Target Users / Use Case
